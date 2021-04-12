@@ -21,20 +21,19 @@
 >>음식점 게시판   
 >>![KakaoTalk_20210412_183849597](https://user-images.githubusercontent.com/57963888/114380001-8314b600-9bc4-11eb-83ab-72fe42859c7d.png)   
 >>마이페이지   
->>![KakaoTalk_20210412_183904789](https://user-images.githubusercontent.com/57963888/114380006-83ad4c80-9bc4-11eb-9f2f-747e074d68c8.png)
-
-https://user-images.githubusercontent.com/57963888/114380008-8445e300-9bc4-11eb-80e7-42a8eb5c74ab.mp4   
-
-https://user-images.githubusercontent.com/57963888/114380012-85771000-9bc4-11eb-9f96-6c02db0a7c71.mp4   
+>>![KakaoTalk_20210412_183904789](https://user-images.githubusercontent.com/57963888/114380006-83ad4c80-9bc4-11eb-9f2f-747e074d68c8.png) 
 >>정보수정   
 >>![KakaoTalk_20210412_183823464](https://user-images.githubusercontent.com/57963888/114380016-860fa680-9bc4-11eb-8bba-f82150622b34.png)   
+>>[통합 테마 영상](https://user-images.githubusercontent.com/57963888/114380008-8445e300-9bc4-11eb-80e7-42a8eb5c74ab.mp4)   
 
->
+
+
+***   
 
 ### 데이터베이스 연동   
 >진행과정1   
 >회원가입 후 로그인 하는 과정에서, 데이터베이스에 데이터를 추가하고 데이터를 불러오는 기능도 넣었습니다.   
 >>[회원가입&로그인 영상](https://user-images.githubusercontent.com/57963888/114373417-82c4ec80-9bbd-11eb-9670-c00b35f7d66d.mp4)
->원래는 사용하기에 익숙한 Mysql로 개발하려고 했지만, 동시접속이 불가능하다는 점과 실시간으로 데이터가 이동하지 않는다는 것을 안 후에야   
+>원래는 사용하기에 익숙한 Mysql로 개발하려고 했지만, 동시접속이 불가능하다는 점과 실시간으로 데이터가 이동하지 않는다는 것을 알고  
 >이 단점들을 보완할 데이터베이스를 사용하기로 하였습니다.   
 >다음 주부터 Mysql로 조작하던 데이터를 Firebase를 사용하여 데이터를 관리하려고 합니다.   
