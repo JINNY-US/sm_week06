@@ -23,6 +23,7 @@
  
 >[통합 테마 영상](https://user-images.githubusercontent.com/57963888/114380008-8445e300-9bc4-11eb-80e7-42a8eb5c74ab.mp4)   
 
+
 >음식점 게시판   
 >![KakaoTalk_20210412_183849597](https://user-images.githubusercontent.com/57963888/114380001-8314b600-9bc4-11eb-83ab-72fe42859c7d.png)   
 
@@ -34,16 +35,7 @@
 >정보수정   
 >![KakaoTalk_20210412_183823464](https://user-images.githubusercontent.com/57963888/114380016-860fa680-9bc4-11eb-8bba-f82150622b34.png)   
 
-![회원가입](https://user-images.githubusercontent.com/79889548/114398259-8ca91880-9bda-11eb-9f85-2659fdd86f98.PNG)
-![회원등록 성공](https://user-images.githubusercontent.com/79889548/114398262-8dda4580-9bda-11eb-9245-48b456d3b531.PNG)
 
-회원가입 창을 먼저 띄우고 , 아이디 , 비밀번호 , 이름 , 나이 등을 입력 받고 회원가입이 승인된 화면 입니다. 
-
-![RegisterActivity1](https://user-images.githubusercontent.com/79889548/114402238-95035280-9bde-11eb-8e75-23c22a98bd2d.PNG)
-
-![RegisterActivity2](https://user-images.githubusercontent.com/79889548/114402241-96347f80-9bde-11eb-8e53-01d4bcb6572c.PNG)
-
-![RegisterRequest](https://user-images.githubusercontent.com/79889548/114402242-96347f80-9bde-11eb-90fb-5020e52346ac.PNG)
 
 ***   
 
@@ -51,6 +43,9 @@
 >진행과정1   
 >회원가입 후 로그인 하는 과정에서, 데이터베이스에 데이터를 추가하고 데이터를 불러오는 기능도 넣었습니다.   
 >>[회원가입&로그인 영상](https://user-images.githubusercontent.com/57963888/114373417-82c4ec80-9bbd-11eb-9670-c00b35f7d66d.mp4)   
+>>>![RegisterActivity1](https://user-images.githubusercontent.com/79889548/114402238-95035280-9bde-11eb-8e75-23c22a98bd2d.PNG)   
+>>>![RegisterActivity2](https://user-images.githubusercontent.com/79889548/114402241-96347f80-9bde-11eb-8e53-01d4bcb6572c.PNG)   
+>>>![RegisterRequest](https://user-images.githubusercontent.com/79889548/114402242-96347f80-9bde-11eb-90fb-5020e52346ac.PNG)   
 >원래는 사용하기에 익숙한 Mysql로 개발하려고 했지만, 동시접속이 불가능하다는 점과 실시간으로 데이터가 이동하지 않는다는 것을 알고  
 >이 단점들을 보완할 데이터베이스를 사용하기로 하였습니다.   
 >다음 주부터 Mysql로 조작하던 데이터를 Firebase를 사용하여 데이터를 관리하려고 합니다.   
@@ -73,10 +68,11 @@
 >정확한 원인은 모르지만 내부함수와 작성한 함수가 충돌하는 듯해 보입니다.   
 >원래 로그인을 누르면 프래그먼트와 함께 activity_nav_activity.xml 화면이 나와야하는데 튕기는 증상을 보입니다.   
 >![20210412_224206](https://user-images.githubusercontent.com/76034369/114404102-5cfd0f00-9be0-11eb-9b23-3f40a5238ac8.png)   
-[영상1](https://user-images.githubusercontent.com/57963888/114407216-22e13c80-9be3-11eb-96c9-a141cde5b8be.mp4)   
+
+>[문제 상황 영상](https://user-images.githubusercontent.com/57963888/114407216-22e13c80-9be3-11eb-96c9-a141cde5b8be.mp4)   
 >> 문제 상황 영상   
->> 
-[영상2](https://user-images.githubusercontent.com/57963888/114406697-b5351080-9be2-11eb-8f39-3702d7ef784f.mp4)   
+
+>[정상적 동작 영상](https://user-images.githubusercontent.com/57963888/114406697-b5351080-9be2-11eb-8f39-3702d7ef784f.mp4)   
 >>정삭적으로 보여져야할 모습    
 
 
