@@ -66,7 +66,7 @@
 >>익숙하지 않은 데이터베이스이고 문법도 생소해서 적응하는 데에 시간을 많이 들여야 할 거 같습니다.   
 
 
-
+***
 
 ### UI 합체 시도
 >저번 주차에 각자 나눠서 작업했던 activity들을 합치는 과정 중 똑같은 버그의 반복 발생으로 인해 해결방안을 찾고있습니다.   
@@ -78,3 +78,20 @@
 >>   
 [![정상 구동 ](http://img.youtu.be/PxIriYGUVL8/0.jpg)](https://youtu.be/PxIriYGUVL8)   
 >>정삭적으로 보여져야할 모습    
+
+
+
+***
+
+
+### 업주 관련 UI
+>진행과정
+>>>가게관련 페이지 구성해봤습니다  (tab 부분, 영화관, 옷가게 및 등 페이지와 똑같이 쓸 수 있게 코드를 써 봤습니다)   
+
+>>activity_main.xml   
+>>![activity_main](https://user-images.githubusercontent.com/79883669/114404324-8fa70780-9be0-11eb-8ff7-5dab81a973dc.png)   
+
+>>AndroidManifiest.xml의 application 부분 (다음 주까지 완성할 예정)   
+>>![manifiest_application 부분](https://user-images.githubusercontent.com/79883669/114404687-e7457300-9be0-11eb-8cdb-6bfb09df092a.png)   
+
+
