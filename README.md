@@ -75,6 +75,6 @@
 >![20210412_224206](https://user-images.githubusercontent.com/76034369/114404102-5cfd0f00-9be0-11eb-9b23-3f40a5238ac8.png)   
 <iframe width="640" height="360" src="https://youtu.be/ndxKCNcOp4o" frameborder="0" gesture="media" allowfullscreen=""></iframe>   
 >> 문제 상황 영상   
->> 
+>>   
 <iframe width="640" height="360" src="https://youtu.be/PxIriYGUVL8" frameborder="0" gesture="media" allowfullscreen=""></iframe>   
 >>정삭적으로 보여져야할 모습    
