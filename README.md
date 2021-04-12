@@ -76,5 +76,5 @@
 <iframe width="640" height="360" src="https://youtu.be/ndxKCNcOp4o" frameborder="0" gesture="media" allowfullscreen=""></iframe>   
 >> 문제 상황 영상   
 >>   
-<iframe width="640" height="360" src="https://youtu.be/PxIriYGUVL8" frameborder="0" gesture="media" allowfullscreen=""></iframe>   
+[![정상 구동 ](http://img.youtu.be/PxIriYGUVL8/0.jpg)](https://youtu.be/PxIriYGUVL8)   
 >>정삭적으로 보여져야할 모습    
