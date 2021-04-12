@@ -32,6 +32,10 @@
 >정보수정   
 >![KakaoTalk_20210412_183823464](https://user-images.githubusercontent.com/57963888/114380016-860fa680-9bc4-11eb-8bba-f82150622b34.png)   
 
+![회원가입](https://user-images.githubusercontent.com/79889548/114398259-8ca91880-9bda-11eb-9f85-2659fdd86f98.PNG)
+
+![회원등록 성공](https://user-images.githubusercontent.com/79889548/114398262-8dda4580-9bda-11eb-9245-48b456d3b531.PNG)
+
 ***   
 
 ### 데이터베이스 연동   
