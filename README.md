@@ -38,7 +38,13 @@
 
 ![회원등록 성공](https://user-images.githubusercontent.com/79889548/114398262-8dda4580-9bda-11eb-9245-48b456d3b531.PNG)
 
-일단 회원가입 창을 먼저 띄우고 , 아이디 , 비밀번호 , 이름 , 나이 등을 입력 받고 회원가입을 완료 한 화면입니다. 
+회원가입 창을 먼저 띄우고 , 아이디 , 비밀번호 , 이름 , 나이 등을 입력 받고 회원가입이 승인된 화면 입니다. 
+
+![RegisterActivity1](https://user-images.githubusercontent.com/79889548/114402238-95035280-9bde-11eb-8e75-23c22a98bd2d.PNG)
+
+![RegisterActivity2](https://user-images.githubusercontent.com/79889548/114402241-96347f80-9bde-11eb-8e53-01d4bcb6572c.PNG)
+
+![RegisterRequest](https://user-images.githubusercontent.com/79889548/114402242-96347f80-9bde-11eb-90fb-5020e52346ac.PNG)
 
 ***   
 
