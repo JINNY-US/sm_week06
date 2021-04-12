@@ -17,14 +17,18 @@
    
 ### 5주차 보완   
 >진행과정   
->각자 진행하여 만들어둔 레이아웃 파일을 앱의 테마에 맞추어 색과 이미지들을 통일하는 작업을 해주었습니다.   
+>각자 진행하여 만들어둔 레이아웃 파일을 앱의 테마에 맞추어 색과 이미지들을 통일하는 작업을 해주었습니다.  
+ 
 >[통합 테마 영상](https://user-images.githubusercontent.com/57963888/114380008-8445e300-9bc4-11eb-80e7-42a8eb5c74ab.mp4)   
+
 >>음식점 게시판   
 >>![KakaoTalk_20210412_183849597](https://user-images.githubusercontent.com/57963888/114380001-8314b600-9bc4-11eb-83ab-72fe42859c7d.png)   
+
 >>마이페이지   
 >>![KakaoTalk_20210412_183904789](https://user-images.githubusercontent.com/57963888/114380006-83ad4c80-9bc4-11eb-9f2f-747e074d68c8.png)   
 >>>*마이페이지 같은 경우에는 배달 어플의 UI를 참고하여 비슷하게 만들 예정입니다.*   
 >>>![KakaoTalk_20210412_160004830](https://user-images.githubusercontent.com/57963888/114385351-e570b500-9bca-11eb-859d-40aabfdd86db.jpg)   
+
 >>정보수정   
 >>![KakaoTalk_20210412_183823464](https://user-images.githubusercontent.com/57963888/114380016-860fa680-9bc4-11eb-8bba-f82150622b34.png)   
 
@@ -37,3 +41,15 @@
 >원래는 사용하기에 익숙한 Mysql로 개발하려고 했지만, 동시접속이 불가능하다는 점과 실시간으로 데이터가 이동하지 않는다는 것을 알고  
 >이 단점들을 보완할 데이터베이스를 사용하기로 하였습니다.   
 >다음 주부터 Mysql로 조작하던 데이터를 Firebase를 사용하여 데이터를 관리하려고 합니다.   
+
+>진행과정2   
+>처음 써보는 데이터베이스라서 연습삼아 데이터 테이블과 속성들을 입력해보았습니다.   
+>>![image](https://user-images.githubusercontent.com/57963888/114385784-662fb100-9bcb-11eb-98f3-bf8f04b6650c.png)   
+>>![image](https://user-images.githubusercontent.com/57963888/114385856-79428100-9bcb-11eb-88a7-f05b1007d82b.png)   
+
+>이러한 데이터 테이블 및 투플들을 생성하고 관리할 예정입니다.   
+>![image](https://user-images.githubusercontent.com/57963888/114386304-038ae500-9bcc-11eb-9321-7bfa2c56c9df.png)   
+>>연습용 코드로 데이터를 생성하려고 했지만 오류를 고칠 수 없어서 팀원들과 의논 중에 있습니다.  
+>>익숙하지 않은 데이터베이스이고 문법도 생소해서 적응하는 데에 시간을 많이 들여야 할 거 같습니다.   
+
+
