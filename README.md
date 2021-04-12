@@ -86,12 +86,12 @@
 
 ### 업주 관련 UI
 >진행과정
->>>가게관련 페이지 구성해봤습니다  (tab 부분, 영화관, 옷가게 및 등 페이지와 똑같이 쓸 수 있게 코드를 써 봤습니다)   
+>>가게관련 페이지 구성해봤습니다  (tab 부분, 영화관, 옷가게 및 등 페이지와 똑같이 쓸 수 있게 코드를 써 봤습니다)   
 
->>activity_main.xml   
+>activity_main.xml   
 >>![activity_main](https://user-images.githubusercontent.com/79883669/114404324-8fa70780-9be0-11eb-8ff7-5dab81a973dc.png)   
 
->>AndroidManifiest.xml의 application 부분 (다음 주까지 완성할 예정)   
+>AndroidManifiest.xml의 application 부분 (다음 주까지 완성할 예정)   
 >>![manifiest_application 부분](https://user-images.githubusercontent.com/79883669/114404687-e7457300-9be0-11eb-8cdb-6bfb09df092a.png)   
 
 
