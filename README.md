@@ -73,9 +73,9 @@
 >정확한 원인은 모르지만 내부함수와 작성한 함수가 충돌하는 듯해 보입니다.   
 >원래 로그인을 누르면 프래그먼트와 함께 activity_nav_activity.xml 화면이 나와야하는데 튕기는 증상을 보입니다.   
 >![20210412_224206](https://user-images.githubusercontent.com/76034369/114404102-5cfd0f00-9be0-11eb-9b23-3f40a5238ac8.png)   
-[영상1](https://user-images.githubusercontent.com/57963888/114406689-b2d2b680-9be2-11eb-8089-d733b766869f.mp4)   
+[영상1](https://user-images.githubusercontent.com/57963888/114407216-22e13c80-9be3-11eb-96c9-a141cde5b8be.mp4)   
 >> 문제 상황 영상   
->>   {% include video id="ndxKCNcOp4o" provider="youtube" %}
+>>   
 [영상2](https://user-images.githubusercontent.com/57963888/114406697-b5351080-9be2-11eb-8f39-3702d7ef784f.mp4)   
 >>정삭적으로 보여져야할 모습    
 
